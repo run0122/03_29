@@ -5,6 +5,7 @@
 ## 1. GitHub Desktop & Git Bash
 
 https://git-scm.com/book/ko/v2
+
 https://training.github.com/downloads/ko/github-git-cheat-sheet/
 위 url에는 Git의 작동 방식과 원리, 그리고 사용되는 코드들이 적혀있습니다.
 
